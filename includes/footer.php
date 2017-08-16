@@ -12,6 +12,7 @@
         <div class="small-12 medium-12  large-12  columns">
           <p>© 2015 - 2016. All Rights reserved. <a href="privacypolicy.html" target="_blank">Privacy Policy</a></p>
       </div>
+      </div>
     </footer>
     
     </section>
