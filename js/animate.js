@@ -13,7 +13,7 @@
 	
 	//functions
 	function init (){
-		TweenMax.from (logoanimation, 3, {opacity:0});
+		TweenMax.logo (logoanimation, 3, {opacity:0});
 		//TweenMax.from (mottoanimaiton, 3, {delay:2, opacity:0});
 	}
 	

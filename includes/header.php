@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mark Landeryou Artisan, London Ontario Canada</title>
+    <title><?php echo($pageTitle); ?> | Mark Landeryou Artisan, London Ontario Canada</title>
     <meta name="description" content="Mark Landeryou is an artisan from London Ontario, Canada. Who prides himself in the quality of his work">
     <meta name="keywords" content="Mark Landeryou Artisan, London Ontario Canada">
     <meta name="author" content="Mark Landeryou">

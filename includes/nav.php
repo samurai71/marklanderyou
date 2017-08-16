@@ -1,4 +1,4 @@
-<section class="row panel">
+<section class="row wrapper">
     <h1 class="hidden">Mark Landeryou Artisan</h1>
     <header>
       <div class="row">

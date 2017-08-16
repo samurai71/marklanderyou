@@ -1,4 +1,5 @@
 <?php 
+    $pageTitle = "About";
 	include "includes/header.php";
     include "includes/nav.php";
  ?>
@@ -25,7 +26,10 @@
                 </div>
             </div>
         </div>
-		
+        </section>
+
+		<<section>
+            
         <div class="row">
         <div class="small-10 medium-6 medium-offset-3 large-offset-4 large-4 columns">
         	<h4>Recent Work</h4>

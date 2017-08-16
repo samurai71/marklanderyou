@@ -1,4 +1,5 @@
 <?php
+	$pageTitle = "Services";
 	require_once('admin/includes/init.php');
 	
 	$tbl = "tbl_services";

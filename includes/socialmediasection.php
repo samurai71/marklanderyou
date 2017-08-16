@@ -10,10 +10,10 @@
                 <li><object data="images/behance.svg" class="socialIcons" id="behance"></object></li>
                 </ul>
             </div>
-            <div class="small-12 medium-4 large-4 columns">
+            <div class="small-12 medium-4 large-4 columns fBook">
         	<div class="fb-page" data-href="https://www.facebook.com/markedwardlanderyou" data-tabs="timeline,event,messages" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/markedwardlanderyou" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/markedwardlanderyou">Mark Landeryou</a></blockquote></div>
         </div>
-        <div class="small-12 medium-4 large-4 columns">
+        <div class="small-12 medium-4 large-4 columns twitter">
         <a class="twitter-timeline" data-height="500" data-theme="light" href="https://twitter.com/samurai71">Tweets by samurai71</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
         </div>

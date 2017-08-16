@@ -1,4 +1,5 @@
 <?php
+    $pageTitle = "Thank you";
     include "includes/header.php";
     include "includes/nav.php";
 ?>

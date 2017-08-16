@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Contact";
 	require_once('admin/includes/init.php');
 	
 	$tbl = "tbl_contact";

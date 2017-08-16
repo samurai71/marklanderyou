@@ -28,7 +28,7 @@ h2 {
 
 p {
 	font-family: 'georgia' , serif !important;
-	color: #ce171e;
+	/* color: #ce171e; */
 }
 
 .hidden {
@@ -39,7 +39,9 @@ body {
 	color: #333333;
 	font-family: Calibri, Arial, "Helvetica", sans-serif;
 	font-size: 100%;
-	background:url(../images/wood_background.jpg) /*no-repeat fixed*/;
+	/* background-color: #3c7def; */
+	background-color: #f1f1f1;
+	/*background:url(../images/wood_background.jpg) /*no-repeat fixed*/
 	/* background-size: cover; */
 }
 
@@ -56,13 +58,25 @@ p {
 	margin-top: 1em;
 }
 
+/* .photo {
+	border-radius: 50%;
+} */
+
+
 .panel {
-	background-color: rgba(255,255,255,.85);
+	/* background-color: rgba(255,255,255,.85); */
 	padding-top: 1em;
 	padding-bottom: 1em;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	border: 10px solid #030303;
+	
+}
+
+.wrapper {
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
 }
 
 .mainNav {
@@ -123,6 +137,13 @@ p {
 
 	.js .slicknav_menu {
 		display:block;
+	}
+
+	.fBook {
+		margin-bottom: 1em ; 
+	}
+	.twitter {
+		margin-top: 1em;
 	}
  } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
 
