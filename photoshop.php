@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Photoshop Work";
 	include "includes/header.php";
   include "includes/nav.php";
 ?>

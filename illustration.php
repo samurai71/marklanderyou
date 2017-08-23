@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Digital Illustrations";
 	include "includes/header.php";
   include "includes/nav.php";
 ?>

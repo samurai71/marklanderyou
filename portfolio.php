@@ -1,8 +1,9 @@
 <?php
+  $pageTitle = "Portfolio";
 	require_once('admin/includes/init.php');
 	
-	$tbl = "tbl_portfolio";
-	$getPortfolio = getAll($tbl);
+	//$tbl = "tbl_portfolio";
+	//$getPortfolio = getAll($tbl);
   include "includes/header.php";
   include "includes/nav.php";
 ?>
@@ -14,6 +15,7 @@
            <a class="button">All</a>
            <a class="button">Web</a>
            <a class="button">Illustration/Painting</a>
+           <a class="button">Photoshop Work</a>
            <a class="button">Photoshop Work</a>
           </div>
     		</div>

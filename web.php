@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Web Stuff";
 	include "includes/header.php";
   include "includes/nav.php";
 ?>

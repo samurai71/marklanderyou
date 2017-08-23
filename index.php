@@ -9,7 +9,11 @@
                  <h2>About</h2>
                  <img src="images/marklanderyou.png" alt="Mark Landeryou Photo" class="left photo">
                  <h4>I'm Mark Landeryou, and I'm an Digital Artisan.</h4>
+
                  <p>Specializing in<span class="bold"> Web design and development</span>, graphic design, digital illustration and painting, Photoshop work. <br>Mark Landeryou is an Artisan from <span class="bold">London, Ontario Canada</span>. He brings a lot of different experiences to his craft, he utilizes many different mediums for his creations. Mark is also an experienced web developer. So if you need a design or web site created he is your man.</p>
+
+                 <p>The reason for the three coloured circles in the logo is to symbolize: Mind, body and Spirit. The significance of the three colours used is we as humans see in red, blue and green. Mark Landeryou tries to incorporate Mind, body and Spirit into his creations whether it be a web design or digital painting or illustration.</p>
+
             </div>
         </div>
     </article>
@@ -56,13 +60,14 @@
 			</div>
         </div>
     </section>
-    <!-- <section>
+    <section>
 	<div class="row">
 	<div class="small-10 medium-10 large-10 columns">
-	<h2>For Sale</h2>
+	<h2>Coming Soon</h2>
+    <p>At <span class="bold">Mark Landeryou Artisian</span> we will soon be offering <span class="bold">limited edition</span> prints of the art created for sale. Once they are sold no more will be sold.</p>
 	</div>
 	</div>
-    </section> -->
+    </section>
     
     <?php 
     	include "includes/socialmediasection.php";
