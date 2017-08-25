@@ -14,7 +14,7 @@
            <a class="button">Web</a>
            <a class="button">Illustration/Painting</a>
            <a class="button">Photoshop Work</a>
-           <a class="button">Photoshop Work</a>
+           <!-- <a class="button">Photoshop Work</a> -->
           </div>
     		</div>
     	</div>
