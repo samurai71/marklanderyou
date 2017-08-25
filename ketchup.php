@@ -9,7 +9,7 @@
                  <h2>Ketchup Bottle</h2>
                  <p>
                 <ul class="clearing-thumbs feature" data-clearing>
-                 <li><a href="images/ketchupbottle.jpg"><img data-caption="Landtech Computer Consulting" src="images/thumbs/ketchupbottle_thumb.jpg" class="left photo"></a></li>
+                 <li><a href="images/ketchupbottle.jpg"><img data-caption="Ketchup bottle Photoshop" src="images/thumbs/ketchupbottle_thumb.jpg" class="left photo"></a></li>
                  <h4>Ketcup bottle done in Photoshop.</h4>A Ketchup bottle recreated in Adobe Photoshop.
                  </ul>
                  </p>

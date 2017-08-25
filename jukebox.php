@@ -9,7 +9,7 @@
                  <h2>Jukebox</h2>
                  <p>
                 <ul class="clearing-thumbs feature" data-clearing>
-                 <li><a href="images/jukebox.jpg"><img data-caption="Landtech Computer Consulting" src="images/thumbs/jukebox_thumb.jpg" class="left photo"></a></li>
+                 <li><a href="images/jukebox.jpg"><img data-caption="Jukebox Photoshop" src="images/thumbs/jukebox_thumb.jpg" class="left photo"></a></li>
                  <h4>Jukebox done in Photoshop.</h4>A 1950's or 1960's style Jukebox recreated in Adobe Photoshop.
                  </ul>
                  </p>

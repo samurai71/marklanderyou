@@ -9,7 +9,7 @@
                  <h2>Clay and Gemma from SOA Digital Painting</h2>
                  <p>
                 <ul class="clearing-thumbs feature" data-clearing>
-                 <li><a href="images/Clay_and_Gemma.png"><img data-caption="Landtech Computer Consulting" src="images/thumbs/Clay_and_Gemma_thumb.png" class="left photo"></a></li>
+                 <li><a href="images/Clay_and_Gemma.png"><img data-caption="Clay and Gemma Painting" src="images/thumbs/Clay_and_Gemma_thumb.png" class="left photo"></a></li>
                  <h4>Clay and Gemma from SOA Digital painting.</h4>Clay and Gemma from the television show Sons of Anarchy. This was done with a wacom tablet and Corel Painter 6. I was going for a realistic painting when I did this piece.
                  </ul>
                  </p>
