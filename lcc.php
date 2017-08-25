@@ -1,4 +1,5 @@
 <?php
+    $pageTitle = "Landtech Computer Consulting 1";
     include "includes/header.php";
     include "includes/nav.php";
 ?>

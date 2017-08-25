@@ -1,4 +1,5 @@
 <?php
+    $pageTitle = "Jim Morrison Painting";
     include "includes/header.php";
     include "includes/nav.php";
 ?>

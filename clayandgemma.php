@@ -1,4 +1,5 @@
 <?php
+    $pageTitle = "Clay and Gemma Painting";
     include "includes/header.php";
     include "includes/nav.php";
 ?>

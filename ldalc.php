@@ -1,4 +1,5 @@
 <?php
+    $pageTitle = "Learning Disabilities Association of Lambton County";
     include "includes/header.php";
     include "includes/nav.php";
 ?>

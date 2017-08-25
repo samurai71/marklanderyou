@@ -1,4 +1,5 @@
 <?php
+    $pageTitle = "The Hair Garage";
     include "includes/header.php";
     include "includes/nav.php";
 ?>

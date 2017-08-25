@@ -1,4 +1,5 @@
 <?php
+    $pageTitle = "Ketchup bottle Photoshop";
     include "includes/header.php";
     include "includes/nav.php";
 ?>
