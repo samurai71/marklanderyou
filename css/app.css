@@ -1,189 +1,143 @@
 @font-face {
-    font-family: 'colors_of_autumnregular';
-    src: url('colors_of_autumn-webfont.eot');
-    src: url('colors_of_autumn-webfont.eot?#iefix') format('embedded-opentype'),
-         url('colors_of_autumn-webfont.woff2') format('woff2'),
-         url('fonts/colors_of_autumn-webfont.woff') format('woff'),
-         url('fonts/colors_of_autumn-webfont.ttf') format('truetype'),
-         url('fonts/colors_of_autumn-webfont.svg#colors_of_autumnregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
+    font-family: colors_of_autumnregular;
+    src: url(colors_of_autumn-webfont.eot);
+    src: url(colors_of_autumn-webfont.eot?#iefix) format('embedded-opentype'), url(colors_of_autumn-webfont.woff2) format('woff2'), url(fonts/colors_of_autumn-webfont.woff) format('woff'), url(fonts/colors_of_autumn-webfont.ttf) format('truetype'), url(fonts/colors_of_autumn-webfont.svg#colors_of_autumnregular) format('svg');
+    font-weight: 400;
+    font-style: normal
 }
 
 .bold {
-	font-weight: bold;
+    font-weight: 700
 }
 
-h1, h2 {
-	font-family: 'colors_of_autumnregular', sans-serif;
-	color: #ce171e !important;
-	padding-bottom: .5em;
-	padding-top: .5em;
+h1,
+h2 {
+    font-family: colors_of_autumnregular, sans-serif;
+    color: #ce171e!important;
+    padding-bottom: .5em;
+    padding-top: .5em
 }
 
 h2 {
-	margin-top: 1em;
+    margin-top: 1em
 }
 
 p {
-	font-family: 'georgia' , serif !important;
-	/* color: #ce171e; */
+    font-family: georgia, serif!important
 }
 
 .hidden {
-	display:none;
+    display: none
 }
 
 body {
-	color: #333333;
-	font-family: Calibri, Arial, "Helvetica", sans-serif;
-	font-size: 100%;
-	/* background-color: #3c7def; */
-	background-color: #f1f1f1;
-	/*background:url(../images/wood_background.jpg) /*no-repeat fixed*/
-	/* background-size: cover; */
+    color: #333;
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    background-color: #f1f1f1
 }
 
 a:hover {
-	text-decoration: none;
-	font-style: italic;
-}
-
-p {
-	font-family: serif;
+    text-decoration: none;
+    font-style: italic
 }
 
 .motto {
-	margin-top: 1em;
+    margin-top: 1em
 }
 
-/* .photo {
-	border-radius: 50%;
-} */
-
-
-.panel {
-	/* background-color: rgba(255,255,255,.85); */
-	padding-top: 1em;
-	padding-bottom: 1em;
-	margin-top: 1em;
-	margin-bottom: 1em;
-	
-}
-
+.panel,
 .wrapper {
-	padding-top: 1em;
-	padding-bottom: 1em;
-	margin-top: 1em;
-	margin-bottom: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em
 }
 
 .mainNav {
-	margin-top: 2em;
-	margin-bottom: 10px;
+    margin-top: 2em;
+    margin-bottom: 10px
 }
 
 .mainNav ul {
-	text-align: center;
+    text-align: center
 }
 
 .mainNav ul li {
-	display: inline;
-	margin-top: 0;
-	margin-right: 1.5em;
-	/* margin-right: 1.5em;
-	margin-bottom: 0;
-	margin-left: 1.5em; */
-	
+    display: inline;
+    margin-top: 0;
+    margin-right: 1.5em
 }
 
 .mainNav li a {
-	font-family: Georgia, "Times New Roman", Times, serif;
-	font-size: 1.1em;
-	/* color: #b31117; */ /* dark red from the logo */
-	color: #1E1869;
-	/* color: #27267F; */
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.1em;
+    color: #1E1869
+}
+
+.navBtns {
+	margin-bottom: 2em;
+}
+
+.navBtns img {
+	width: 20%;
 }
 
 #socialMedia {
-	/* margin-bottom: 1em; */
-	padding-bottom: 1em;
+    padding-bottom: 1em;
 }
 
 .socialmedia img {
-	width: 10%;
-	float: left;
-	padding-left: 15px;
-	padding-bottom: 10px;
+    width: 10%;
+    float: left;
+    padding-left: 15px;
+    padding-bottom: 10px
 }
 
 .footerbar p {
-	text-align: center;
-	margin-bottom: 10px;
-	margin-top: 1px;
-	font-size: 0.8em;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 1px;
+    font-size: .8em
 }
 
 .footerbar a {
-	color: blue;
+    color: #00f
 }
 
-@media only screen and (max-width: 40em) {
-	.js #menu {
-		display:none;
-	}
-
-
-	.js .slicknav_menu {
-		display:block;
-	}
-
-	.fBook {
-		margin-bottom: 1em ; 
-	}
-	.twitter {
-		margin-top: 1em;
-	}
- } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
-
- @media only screen and (min-width: 64.063em) and (max-width: 90em) { 
- 	.js #menu {
-		display:none;
-	}
-
-
-	.js .slicknav_menu {
-		display:none;
-	}
-	
-	/*h4 {
-		margin-top: .5em;
-	}
-
-	.navBar ul li {
-	background-color: #cf2a6a;
-	height: 3em;*/
+@media only screen and (max-width:40em) {
+    .js #menu {
+        display: none
+    }
+    .js .slicknav_menu {
+        display: block
+    }
+    .fBook {
+        margin-bottom: 1em
+    }
+    .twitter {
+        margin-top: 1em
+    }
 }
 
+@media only screen and (min-width:64.063em) and (max-width:90em) {
+    .js #menu,
+    .js .slicknav_menu {
+        display: none
+    }
+}
 
-@media only screen and (min-width: 40.063em) and (max-width: 64em) {
-.js #menu {
-		display:none;
-	}
-
-
-	.js .slicknav_menu {
-		display:none;
-	}
-} /* min-width 641px and max-width 1024px, use when QAing tablet-only issues */
+@media only screen and (min-width:40.063em) and (max-width:64em) {
+    .js #menu,
+    .js .slicknav_menu {
+        display: none
+    }
+}
 
 .photo {
-	margin-right: 1em;
+    margin-right: 1em
 }
 
 #mobileNav {
-	margin-top: .5em;
+    margin-top: .5em
 }
-
-
