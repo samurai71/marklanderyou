@@ -3,7 +3,7 @@
 	include "includes/header.php";
     include "includes/nav.php";
  ?>
-   <article>
+   <article id="main">
         <div class="row">
             <div class="small-12 medium-12 and large-12 columns">
                  <h2>About</h2>
