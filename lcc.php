@@ -19,8 +19,3 @@
       include "includes/footer.php";
      ?>
 
-<!-- <ul class="clearing-thumbs small-block-grid-4" data-clearing>
-  <li><a href="path/to/your/img"><img data-caption="caption here..." src="path/to/your/img-th"></a></li>
-  <li><a href="path/to/your/img"><img data-caption="caption 2 here..." src="path/to/your/img-th"></a></li>
-  <li><a href="path/to/your/img"><img data-caption="caption 3 here..." src="path/to/your/img-th"></a></li>
-</ul> -->
