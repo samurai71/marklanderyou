@@ -9,7 +9,7 @@
     <meta name="author" content="Mark Landeryou">
     <link rel="stylesheet" href="css/normalize.css" />
     <link rel="stylesheet" href="css/foundation.min.css" />
-    <link rel="stylesheet" href="css/app.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
     <link rel="stylesheet" href="css/slicknav.min.css" />
     <link rel="stylesheet" href="css/imagehover.min.css" />
     <link rel="stylesheet" href="css/icons.min.css" />
