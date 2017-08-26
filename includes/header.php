@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="css/icons.min.css" /> -->
     <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js"></script>
+    <script src="js/scripts.js" type="text/javascript" charset="utf-8" async defer></script>
     <script src="js/vendor/modernizr.js"></script>
   </head>
   <body>

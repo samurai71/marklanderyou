@@ -5,7 +5,7 @@
   include "includes/header.php";
   include "includes/nav.php";
 ?>
-    <!-- <article>
+    <article>
     	<div class="row">
     		<div class="small-12 medium-12 and large-12 columns">
     			<h1>Portfolio</h1>
@@ -13,7 +13,7 @@
            <a class="button">All</a>
            <a class="button">Web</a>
            <a class="button">Illustration/Painting</a>
-           <a class="button">Photoshop Work</a> -->
+           <a class="button">Photoshop Work</a>
            <!-- <a class="button">Photoshop Work</a> -->
           <!-- </div>
     		</div>
