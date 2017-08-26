@@ -22,10 +22,11 @@
     <script src="js/foundation/foundation.abide.min.js"></script>
     <script src="js/foundation/foundation.clearing.min.js"></script>
     <script src="js/jquery.slicknav.min.js"></script>
-    <script src="js/animate.min.js"></script>
+    <!-- <script src="js/animate.min.js"></script> -->
     <script src="js/app.min.js"></script>
-    <script src="js/icons.min.js"></script>
-    <script src="js/google.min.js"></script>
-    <script src="js/facebook.min.js"></script>
-    <script src="js/weather.js"></script>
+    <!-- <script src="js/icons.min.js"></script> -->
+    <!-- <script src="js/google.min.js"></script> -->
+    <!-- <script src="js/facebook.min.js"></script> -->
+   <!--  <script src="js/weather.js"></script> -->
+    <<script src="js/scripts.js" type="text/javascript" charset="utf-8" async defer></script>
 </html>

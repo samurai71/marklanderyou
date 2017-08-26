@@ -7061,6 +7061,10 @@ a:hover {
     font-style: italic
 }
 
+.logo {
+  opacity: 0;
+}
+
 .motto {
     margin-top: 1em
 }
