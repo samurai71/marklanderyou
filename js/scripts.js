@@ -20,7 +20,7 @@
 		//TweenMax.from (logoanimation, 3, {css:{opacity:1}});
 		TweenMax.to (logoanimation, 1, {opacity:1});
 		TweenMax.to (mainNav, 1, {opacity:1});
-		//TweenMax.from(mainContent, 2, {delay:1, left:9000px});
+		//TweenMax.from(mainContent, 2, {delay:1, opacity:0});
 		//TweenMax.from (mottoanimaiton, 3, {delay:2, opacity:0});
 		//TweenLite.to(element, 1, {css:{left:"100px", top:"50px"}});
 	}
