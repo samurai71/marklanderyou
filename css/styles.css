@@ -7079,7 +7079,7 @@ a:hover {
 }
 
 .mainNav {
-    opacity: 0;
+    /*opacity: 0;*/
     margin-top: 2em;
     margin-bottom: 10px
 }

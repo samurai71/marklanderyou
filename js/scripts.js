@@ -12,7 +12,7 @@
 	
 	var logoanimation = document.querySelector(".logo");
 	//var mottoanimaiton = document.querySelector(".motto");
-	var mainNav = document.querySelector(".mainNav");
+	//var mainNav = document.querySelector(".mainNav");
 	//var mainContent = document.querySelector("#main");
 	
 	//functions
