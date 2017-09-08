@@ -8,7 +8,7 @@
 	
 	//console.log("Animate - It works");
 	
-	//variales
+	//variables
 	
 	var logoanimation = document.querySelector(".logo");
 	//var mottoanimaiton = document.querySelector(".motto");
@@ -19,7 +19,8 @@
 	function init (){
 		//TweenMax.from (logoanimation, 3, {css:{opacity:1}});
 		TweenMax.to (logoanimation, 1, {opacity:1});
-		TweenMax.to (mainNav, 1, {opacity:1});
+		//TweenMax.to (mainNav, 1, {opacity:1});
+		//TweenMax.fromTo([element1, element2], 1, {x:0}, {x:100});
 		//TweenMax.from(mainContent, 2, {delay:1, opacity:0});
 		//TweenMax.from (mottoanimaiton, 3, {delay:2, opacity:0});
 		//TweenLite.to(element, 1, {css:{left:"100px", top:"50px"}});

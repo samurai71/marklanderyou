@@ -9,16 +9,16 @@
     	<div class="row">
     		<div class="small-12 medium-12 and large-12 columns">
     			<h1>Portfolio</h1>
-          <div class="stacked-for-small button-group">
+          <!-- <div class="stacked-for-small button-group">
            <a class="button">All</a>
            <a class="button">Web</a>
            <a class="button">Illustration/Painting</a>
            <a class="button">Photoshop Work</a>
-           <!-- <a class="button">Photoshop Work</a> -->
-          <!-- </div>
+           <a class="button">Photoshop Work</a>
+          </div> -->
     		</div>
     	</div>
-    </article> -->
+    </article>
     <section>
       <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3">
         <li><a href="lcc.php"><img src="images/thumbs/LCC_thumb.png" class="web" alt="Landtech Computer Consulting"></a></li>
