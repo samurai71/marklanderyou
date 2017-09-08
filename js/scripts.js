@@ -18,7 +18,8 @@
 	//functions
 	function init (){
 		//TweenMax.from (logoanimation, 3, {css:{opacity:1}});
-		TweenMax.to (logoanimation, 1, {opacity:1});
+		//TweenMax.to (logoanimation, 1, {opacity:1});
+		TweenMax.fromTo([logoanimation],3, {opacity:0}, {opacity:1});
 		//TweenMax.to (mainNav, 1, {opacity:1});
 		//TweenMax.fromTo([element1, element2], 1, {x:0}, {x:100});
 		//TweenMax.from(mainContent, 2, {delay:1, opacity:0});

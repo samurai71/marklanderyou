@@ -3,7 +3,7 @@
     <header>
       <div class="row">
         <div class="small-12 medium-12 large-6 columns logo">
-          <a href="index.php"><object data="images/Logo_outlined.svg"></object>
+          <a href="index.php"><img src="images/Logo_outlined.svg" alt="Mark Landeryou Artisan Logo" title="Mark Landeryou Artisan Logo">
             </a> 
         </div>
         <nav class="mainNav">
